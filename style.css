@@ -6,7 +6,7 @@ body {
   margin: 0;
 }
 
-/* Estilização do Cabeçalho */
+
 header {
   background-color: #6b2d5c;
   color: white;
@@ -14,12 +14,12 @@ header {
   padding: 30px;
 }
 
-header h1 {
+h1 {
   font-size: 36px;
 }
 
-/* Navegação */
-nav {
+
+h2{
   margin-top: 20px;
 }
 
