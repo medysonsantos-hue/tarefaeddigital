@@ -18,8 +18,20 @@ h1 {
   font-size: 36px;
 }
 
-
 h2{
+
+   COLOR: #222222;
+
+}
+
+p {
+
+font-size: 18px;
+line-height: 1.6;
+
+}
+
+nav {
   margin-top: 20px;
 }
 
@@ -37,7 +49,7 @@ nav a:hover {
   background-color: #c77dff;
 }
 
-/* Conteúdo Principal e Seções */
+
 main {
   width: 80%;
   margin: auto;
@@ -50,16 +62,7 @@ section {
   border-radius: 12px;
 }
 
-h2 {
-  color: #6b2d5c;
-}
 
-p {
-  font-size: 18px;
-  line-height: 1.6;
-}
-
-/* Imagens e Legendas */
 img {
   width: 100%;
   max-width: 600px;
@@ -75,7 +78,7 @@ figcaption {
   margin-top: 8px;
 }
 
-/* Componente de Card */
+
 .card {
   background-color: #f3d9fa;
   padding: 15px;
@@ -88,7 +91,7 @@ figcaption {
   margin-top: 0;
 }
 
-/* Rodapé */
+
 footer {
   background-color: #222222;
   color: white;
